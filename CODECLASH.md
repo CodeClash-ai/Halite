@@ -1,7 +1,7 @@
 # [CodeClash] Halite
 This is the starter codebase for the Halite arena featured in CodeClash.
 
-The code represented in this codebase is a mirror of the Halite repository found at https://github.com/HaliteChallenge/Halite.
+The code represented in this codebase is a mirror of the Halite repository found at https://github.com/HaliteChallenge/Halite. Our thanks to Michael Truell, Benjamin Spector, and the great Halite community for open-sourcing this code!
 
 We make several modifications to the original Halite codebase to better suit the CodeClash environment:
 - **Reduced number of supported languages**: The original Halite codebase supports 15 languages - we limit the code options to 4 (C, C++, OCaml, Rust) for the following reasons:
